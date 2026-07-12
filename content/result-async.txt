@@ -1,0 +1,5 @@
+You succesfully created the combination txt for first txt:hello this is the first text file 
+and Second txt:hello this is the first text file
+  
+here is the combined one 
+hello this is the first text filehello this is the first text file
